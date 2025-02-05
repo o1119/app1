@@ -1,6 +1,6 @@
 ---
 name: Feature001
-about: 새 기능을 추가하는 이슈의 템플릿
+about: 어떤 기능을 왜 추가하는지 설명해주세요.
 title: 새로운 기능 추가
 labels: ''
 assignees: ''
