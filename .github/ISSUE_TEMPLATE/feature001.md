@@ -1,10 +1,9 @@
 ---
-name: 새 기능 추가
+name: Feature001
 about: 새 기능을 추가하는 이슈의 템플릿
 title: 새로운 기능 추가
 labels: ''
-assignees: JosephBean, swparabellum, taegong, ljh880427, kdg6782, KY129, HelenHam,
-  GGobung-of-Simba
+assignees: ''
 
 ---
 
